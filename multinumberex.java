@@ -5,5 +5,3 @@ public class multinumberex {
         System.out.println(num + " x " + i + " = " + (num * i));
     }
 }
-    
-
