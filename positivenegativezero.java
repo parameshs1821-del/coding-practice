@@ -1,6 +1,6 @@
 public class positivenegativezero {
     public static void main(String []args){
-        int num = -10;
+        int num = 1;
         if (num > 0){
             System.out.println("the number is positive");
         }else if(num < 0){
