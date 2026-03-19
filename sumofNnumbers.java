@@ -1,10 +1,10 @@
 public class sumofNnumbers {
     public static void main(String [] args){
-              int sum = 1;
-        for(int i =1; i<=10; i++ ){
-              sum = sum +i;
-        }
-            System.out.println("sum = " + sum);
+            int num = 15 ;
+            for (int i=0; i<=5; i++){
+                num = num + i;
+            }
+            System.out.println(" num = " + num);
     }
     
 }
