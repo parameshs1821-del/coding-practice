@@ -9,5 +9,4 @@ public class reversenumberex {
        }
        System.out.println("the reverse numbers of 4321 -> " + rev);
     }
-    
 }
