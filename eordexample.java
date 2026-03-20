@@ -1,11 +1,10 @@
 public class eordexample{
-    public static void main(String[] args) {
-        int b = 11;
-        if (b % 2 == 0){
-            System.out.println("The number is Even");
+    public static void main(String [] args){
+        int a = 20;
+        if(a % 2 == 0){
+            System.out.println("the number is even");
         }else{
-            System.out.println("The number is odd");
+            System.out.println("the number is odd");
         }
-        }
-        
     }
+}
