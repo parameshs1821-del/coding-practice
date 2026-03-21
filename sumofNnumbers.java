@@ -5,6 +5,5 @@ public class sumofNnumbers {
                 num = num + i;
             }
             System.out.println(" num = " + num);
+        }
     }
-    
-}
